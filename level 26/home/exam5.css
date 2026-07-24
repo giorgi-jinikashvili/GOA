@@ -1,0 +1,19 @@
+table{
+    border-collapse: collapse;
+}
+th{
+    border-bottom: 1px solid rgb(137, 130, 130);
+    text-align: center;
+    background-color: rgb(8, 155, 20);
+    color: rgb(255, 255, 255);
+    width: 100px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+td{
+    border-bottom: 1px solid grey;
+    text-align: center;
+}
+.tr-bold{
+    font-weight: 900;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

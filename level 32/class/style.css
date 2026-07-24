@@ -1,0 +1,19 @@
+.card{
+    width: 350px;
+    height: 250px;
+    border: 2px solid black;
+    border-radius: 10px;
+    transition: 1s ;
+    text-align: center;
+    background-color: cadetblue;
+}
+
+.card:hover{
+    transform: scale(1.05) rotate(3deg) translateY(-5px);
+    background-color: rgb(118, 172, 173);
+}
+img{
+    margin: 10px;
+    width: 150px;
+    height: 100px;
+}

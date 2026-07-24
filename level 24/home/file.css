@@ -1,0 +1,72 @@
+.title {
+    font-size: 30px;
+    color:aqua;
+    text-align: center;
+}
+
+.text{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: darkcyan;
+}
+
+#mine-title{
+    color: blue;
+    text-align: center;
+}
+
+.book-item {
+    font-size: 50px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+body {
+    background-color: grey;
+}
+
+
+.subject-list{
+    background-color: blueviolet;
+}
+
+.description{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 100px;
+}
+
+h1{
+    color: rgb(240, 138, 138);
+    text-align: center;
+}
+
+#menu-title{
+    color: aquamarine;
+    font-size: 34px;
+}
+
+.menu-item{
+    background-color: brown;
+    text-align: center;
+}
+
+.minetitle{
+    color: aliceblue;
+    font-size: 100px;
+    text-align: center;
+}
+
+.sectiontitle{
+    color:chocolate;
+    background-color: darkblue;
+
+}
+
+.content{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+li{
+    background-color: bisque;
+}
+body{
+    background-color: hotpink;
+}

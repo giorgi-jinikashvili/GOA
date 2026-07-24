@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<!-- davaleba 7 block - inline level ბლოკი არის მთელ ხაზს რო იყენებს და მის გვერდიტ რომ ვერაფერს დაწერ ხოლო ინლაინის გვერდიტ დაწერ რასაც გინდა ის არ იკავებს მთელ ხაზს ის იკავებს მხოლოდ იმ ადგილს სადაც წერია block- h1-h6, p, li,  ol, li ,section... inline - button, label,a,img,input ,    -->
+
+<!-- box model შედგება 4 ფენისგან  margin - border - padding - content margin ის გაზრდით ჩვენ გავზრდით გარე ფენას და ვებსაიტს და კოდს შორის შევქმნით დაშორებას border არის ჩარჩო padding არის ჩარჩოსა და შიგთავსს შორის აშორება და content არის შიგთავსი ანუ კონტენტი-->
+    <form>
+        <h1><i>Contact Form:</i></h1>
+        <label for="name"><i>your name</i></label><br>
+        <input type="text" name="username" id="name">
+        <br><br>
+        <label for="email"><i>Email Adress</i></label><br>
+        <input type="email" name="email" id="email">
+        <br><br>
+        <label for="subject"><i>Subject</i></label><br>
+        <input type="text" id="subject">
+        <br><br>
+        <label for="message"><i>Message</i></label>
+        <textarea name="message" id="message" rows="3" cols="20"></textarea>
+        <br>
+        <input type="submit" value="Submit form" class="input">
+    </form>
+</body>
+</html>

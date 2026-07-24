@@ -1,0 +1,21 @@
+body{
+    background-color: blueviolet;
+}
+form{
+    text-align: center;
+    margin-top: 250px;
+}
+h3{
+    margin-right:183px ;
+}
+.input{
+    width: 270px;
+    height: 35px;
+    border-radius:10px ;
+    color: aliceblue;
+    background-color: black;
+}
+input{width: 220px;
+    height: 35px;
+    border-radius:10px ;
+}

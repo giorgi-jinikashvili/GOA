@@ -1,0 +1,23 @@
+table{
+    border: 2px solid rgb(223, 122, 223);
+    border-collapse: collapse;
+    background-color: rgb(185, 121, 246);
+}
+th{
+    border: 2px solid rgb(159, 93, 159);
+    height: 40px;
+    width: 80px;
+    text-align: center;
+}
+td{
+    border: 2px solid rgb(150, 78, 150);
+    height: 40px;
+    text-align: center;
+}
+.nothing {
+    width: 110px;
+}
+
+td:hover {
+    background-color: rgb(195, 104, 196);
+}

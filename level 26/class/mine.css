@@ -1,0 +1,16 @@
+table{
+    border : 2px solid yellow;
+    border-collapse: collapse;
+}
+table th{
+    border:2px dotted rgb(132, 186, 224)
+}
+table td{
+    border:2px dotted rgb(132, 186, 224)
+}
+tr:nth-child(even){
+    background-color: aqua;
+}
+tr:nth-child(odd){
+    background-color:aliceblue;
+}

@@ -1,0 +1,29 @@
+a{
+    color: rgb(102, 132, 232);
+    font-family: cursive;
+    text-shadow: 0px 0px 15px skyblue;
+    text-decoration: none;
+    font-size: x-large;
+    font-weight: 600;
+    transition: 0.2s;
+}
+
+a:link{
+    color: rgb(89, 203, 207);
+    
+}
+a:hover{
+    color: rgb(149, 149, 221);
+    transition: 0.3s;
+}
+
+a:visited{
+    text-shadow: 0px 0px 10px rgb(37, 27, 151);
+}
+
+a:active{
+    text-shadow: 0px 0px 4px rgb(72, 12, 177);
+}
+a:focus{
+    color: blueviolet       ;
+}

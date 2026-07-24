@@ -1,0 +1,23 @@
+table {
+    border: 2px solid black;
+    border-collapse:collapse;
+    
+}
+table th {
+    border: 1px dotted black;
+    background-color: rgb(25, 167, 25);
+   height: 50px;
+}
+table td {
+    border: 2px dashed grey;
+    text-align: center;
+    height: 50px;
+}
+
+tr:nth-child(3n){
+    background-color:cadetblue;
+    border-radius: 50%;
+}
+.nothing {
+    width: 100px;
+}
